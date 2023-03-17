@@ -1,0 +1,10 @@
+/* Select2 */
+.select2-ajax-search-users {
+    display: none;
+}
+
+.select2-ajax-search-users + .select2 .select2-selection__rendered li {
+    float:          none !important;
+    padding-top:    5px;
+    padding-bottom: 5px;
+}
